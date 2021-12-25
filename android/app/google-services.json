@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374229488357",
+    "project_id": "challenge-intern-venturo",
+    "storage_bucket": "challenge-intern-venturo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374229488357:android:9b62caa7214a2b6708fa0c",
+        "android_client_info": {
+          "package_name": "com.example.challenge_intern_veturo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374229488357-6hp798jvnmt7rkl2pvlabb20v2hm4gf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFdMc-9ZAc_1o4GFFP_LqDfudKzkz_bDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374229488357-6hp798jvnmt7rkl2pvlabb20v2hm4gf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
